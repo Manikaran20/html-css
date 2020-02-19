@@ -60,7 +60,7 @@ h1#midmid{
 hr{
 	position: relative;
 	top:160px;
-	left: -400px;
+	left: 250px;
 	width: 70px;
 	height: 2px;
 	background-color: #FFFF00;
@@ -155,7 +155,7 @@ h1#magic{
 }
 hr#magicOne{
 	top: -400px;
-	left: 200px;
+	left: 900px;
 }
 p#magicPara{
 	position: absolute;
@@ -170,14 +170,14 @@ h1#portfolio{
 }
 hr.portfolio{
     top: 680px;
-    left: -500px;
+    left: 150px;
 }
 div#portfolio-nav{
 	position: relative;
 	top: 580px;
 }
 div.blankgreyfirst{
-	position: absolute;
+	position: relative;
 	background-color: #D3D3D3;
 	height: 250px;
 	width: 300px;
@@ -323,7 +323,7 @@ width: 100%;
 
 #team hr{
 	position: relative;
-	left: -400px;
+	left: 200px;
 	top:660px;
 	width: 70px;
 	height: 2px;
@@ -381,7 +381,6 @@ width: 100%;
 #plan hr{
 	position: relative;
 	top:160px;
-	left: -400px;
 	width: 70px;
 	height: 2px;
 	background-color: #FFFF00;
@@ -473,7 +472,6 @@ width: 100%;
 #touch hr{
 	position: relative;
 	top:60px;
-	left: -400px;
 	width: 70px;
 	height: 2px;
 	background-color: #FFFF00;
@@ -515,7 +513,7 @@ div#footer{
 #footer hr{
 	width: 200px;
 	top: 100px;
-	left: -20px;
+	left: 520px;
 }
 #footer a{
 	color: rgb(155, 146, 146);
