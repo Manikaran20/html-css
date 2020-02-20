@@ -177,7 +177,7 @@ div#portfolio-nav{
 	top: 580px;
 }
 div.blankgreyfirst{
-	position: relative;
+	position: absolute;
 	background-color: #D3D3D3;
 	height: 250px;
 	width: 300px;
